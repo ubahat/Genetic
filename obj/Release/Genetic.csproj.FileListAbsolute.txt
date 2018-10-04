@@ -1,0 +1,6 @@
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.dll
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.pdb
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.xml
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Release\Genetic.csprojResolveAssemblyReference.cache
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Release\AForge.Genetic.dll
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Release\AForge.Genetic.pdb

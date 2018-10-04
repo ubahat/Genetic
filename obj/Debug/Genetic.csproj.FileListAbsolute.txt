@@ -1,0 +1,25 @@
+C:\Users\udi\DropboxGmail\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.dll
+C:\Users\udi\DropboxGmail\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.pdb
+C:\Users\udi\DropboxGmail\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.xml
+C:\Users\udi\DropboxGmail\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\AForge.Genetic.dll
+C:\Users\udi\DropboxGmail\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\AForge.Genetic.pdb
+C:\Users\udi\DropboxGmail\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.dll
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.pdb
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.xml
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\AForge.Genetic.dll
+C:\Users\ubahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\AForge.Genetic.pdb
+C:\Users\Udi Bahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.dll
+C:\Users\Udi Bahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.pdb
+C:\Users\Udi Bahat\Dropbox\Markets-Sense\version\MarketsSense\Release\AForge.Genetic.xml
+C:\Users\Udi Bahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+C:\Users\Udi Bahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\AForge.Genetic.dll
+C:\Users\Udi Bahat\Dropbox\Markets-Sense\version\MarketsSense\MarketsSense\Genetic\obj\Debug\AForge.Genetic.pdb
+C:\Study\Release\AForge.Genetic.dll
+C:\Study\Release\AForge.Genetic.pdb
+C:\Study\Release\AForge.Genetic.xml
+C:\Study\Genetic\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+C:\Study\Genetic\Genetic\obj\Debug\Genetic.csproj.CoreCompileInputs.cache
+C:\Study\Genetic\Genetic\obj\Debug\AForge.Genetic.dll
+C:\Study\Genetic\Genetic\obj\Debug\AForge.Genetic.pdb
